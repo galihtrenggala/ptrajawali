@@ -24,8 +24,9 @@ body {
 }
 
 .navbar {
-    background-color: crimson;
-    height: 70px;
+    background: crimson;
+    /* height: 70px; */
+    min-height: 70px;
 }
 
 /* .btn {
@@ -68,4 +69,8 @@ body {
 .header .card {
     opacity: 0.75;
 }
+
+/* .card-title {
+    min-height: 66px;
+} */
 
