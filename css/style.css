@@ -74,3 +74,24 @@ body {
     min-height: 66px;
 } */
 
+.login-page {
+    /* position: relative; */
+    width: 360px;
+    z-index: 1;
+    background: #FFFFFF;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.05), 0 5px 5px 0 rgba(0, 0, 0, 0.1);
+}
+
+
+.box {
+    width: 300px;
+    margin: auto;
+}
+
+.background_login {
+    background-color: crimson;
+}
+
+.portal_login .card-title{
+    text-align: center;
+}
